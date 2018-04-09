@@ -1,0 +1,7 @@
+server:
+  port: 9411
+logging:
+  level:
+    com.netflix: WARN
+    org.springframework.web: WARN
+    tesei7.ms: DEBUG
